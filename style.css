@@ -50,3 +50,8 @@ button{
     margin-bottom: 10px;
     text-decoration: underline;
 }
+#day-selection{
+    text-align: center;
+    margin: 20px;
+    display: none;
+}
